@@ -2,6 +2,7 @@ com\shen\rpc\provider\Service.class
 com\shen\rpc\provider\ServiceHandler.class
 com\shen\rpc\provider\EnableRpcProvider.class
 com\shen\rpc\provider\BeanMethod.class
+com\shen\rpc\ExampleService.class
 com\shen\rpc\consumer\Reference.class
 com\shen\rpc\consumer\RpcHandler.class
 com\shen\rpc\Message$MessageBuilder.class
